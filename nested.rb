@@ -56,7 +56,7 @@ def dennis_ritchies_language
         }
      }
 		 hopper = programmer_hash[:dennis_ritchie][:languages]
-		 hopper.to_s
+		 
 end
 
 def adding_matz
