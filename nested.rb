@@ -55,7 +55,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-		 hopper = programmer_hash[:dennis_ritchie][:languages]
+		 hopper = programmer_hash[:dennis_ritchie][:languages].to_s
 
 end
 
