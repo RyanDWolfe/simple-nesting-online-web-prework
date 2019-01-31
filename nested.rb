@@ -55,6 +55,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
+		 hopper = programmer_hash[:dennis_ritchie][:languages]
+		 hopper.to_s
 end
 
 def adding_matz
